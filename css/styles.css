@@ -1,0 +1,25 @@
+.header {
+  text-align: center;
+  max-width: 100%;
+  background-color: #ED533B;
+}
+
+#finalword {
+  text-align: center;
+}
+
+.firstletter{
+  display: none;
+}
+.secondletter{
+  display: none;
+}
+.thirdletter{
+  display: none;
+}
+.fourthletter{
+  display: none;
+}
+.fifthletter{
+  display: none;
+}
